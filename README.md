@@ -46,29 +46,29 @@ Agri-AI integrates advanced machine learning to enhance farming practices throug
 
 ## 1. Home Page  
 *Description*: The home page introduces Agri-AI with a user-friendly interface. It provides navigation to various features like Crop Recommendation, Disease Detection, Fertilizer Guidance, Weather Updates, and Smart Farming Tips.  
-![Home Page](SCREENSHOTS/HOMEPAGE.png)
+![Home Page](PROJECT/SCREENSHOTS/HOMEPAGE.png)
 
 ## 2. Features Page  
 *Description*: The features page provides an overview of all the tools available in the Agri-AI platform. Users can explore the functionalities such as crop disease detection, fertilizer recommendations, weather forecasting, and more.  
-![Features Page](SCREENSHOTS/FEATURES.png)
+![Features Page](PROJECT/SCREENSHOTS/FEATURES.png)
 
 ## 3. Crop Recommendation  
 *Description*: The crop recommendation feature allows users to input soil and environmental factors. The model predicts suitable crops based on this data, helping farmers choose the best crops for their conditions.  
-![Crop Recommendation](SCREENSHOTS/CROPR.png)
+![Crop Recommendation](PROJECT/SCREENSHOTS/CROPR.png)
 
 ## 4. Crop Disease Detection  
 *Description*: Crop disease detection uses a CNN model to analyze plant images. Users can upload a picture of their plant to receive instant predictions and suggested treatments for detected diseases.  
-![Crop Disease Detection](SCREENSHOTS/CROPD.png)
+![Crop Disease Detection](PROJECT/SCREENSHOTS/CROPD.png)
 
 ## 5. Fertilizer Recommendation  
 *Description*: The fertilizer recommendation feature provides tailored advice based on soil nutrient levels (N, P, K). This helps farmers optimize their fertilizer use to boost crop yield and soil health.  
-![Fertilizer Recommendation](SCREENSHOTS/FERP.png)
+![Fertilizer Recommendation](PROJECT/SCREENSHOTS/FERP.png)
 
 ## 6. Weather Forecasting  
 *Description*: Real-time weather forecasting is integrated into Agri-AI, providing updates that help farmers make informed decisions on irrigation, planting, and harvesting schedules.  
-![Weather Forecasting](SCREENSHOTS/WEATHER.png)
+![Weather Forecasting](PROJECT/SCREENSHOTS/WEATHER.png)
 
 ## 7. Smart Farming Guidance  
 *Description*: The smart farming guidance feature provides practical tips on efficient and sustainable farming practices. It includes advice on soil management, pest control, crop rotation, and more.  
-![Smart Farming Guidance](SCREENSHOTS/SMARTGUIDE.png)
+![Smart Farming Guidance](PROJECT/SCREENSHOTS/SMARTGUIDE.png)
 
